@@ -1,0 +1,1 @@
+# clinica-diagnostico-negocio
